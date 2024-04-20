@@ -1,2 +1,2 @@
 # javascript
-javascript leanrings and tutorials
+javascript learnings and tutorials
